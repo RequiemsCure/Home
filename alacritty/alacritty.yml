@@ -1,0 +1,16 @@
+font:
+  normal:
+    family: Monospace
+    style: Regular
+  bold:
+    family: Monospace
+    style: Bold
+  italic:
+    family: Monospace
+    style: Italic
+  bold_italic:
+    family: Monospace
+    style: Bold Italic
+  size: 11
+
+background_opacity: 0.7

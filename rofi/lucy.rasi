@@ -1,0 +1,65 @@
+
+/*
+ * https://github.com/lucyy-mc/dotfiles
+ * ---
+ *
+ * Rofi theme
+ */
+
+* {
+	background-color: transparent;
+	color: white;
+	font: "Work Sans 12";
+}
+
+element selected {
+	color: #99b8ff;
+}
+
+mainbox {
+	orientation: horizontal;
+}
+
+listview {
+	layout: horizontal;
+}
+
+prompt {
+	color: white;
+}
+
+entry {
+	width: 200px;
+	height: 100%;
+}
+
+listview {
+	position: center;
+}
+
+element {
+	padding: 3 5;
+
+}
+
+inputbar {
+	color: white;
+	border-radius: 5px;
+	padding: 4 0;
+}
+
+window {
+	background-color: #2b2b2bd9;
+	width: 1072px;
+	location: north;
+	height: 30px;
+	y-offset: 12px;
+	border: 2px;
+        border-color: #192133;
+}
+
+prompt {
+	padding:0 5;
+	height: 100%;
+}
+/* vim:ft=css
